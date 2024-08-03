@@ -21,7 +21,7 @@ Using a VPN is crucial for protecting your privacy and security when accessing T
     Install the VPN Software: Download and install the VPN software on your device.
     Connect to a VPN Server: Open the VPN application and connect to a server. For best results, choose a server in a country where TPB is not blocked.
 
-3. Access The Pirate Bay
+3. Access The [Pirate Bay](https://thepiratebaye.org/)
 
 Once your VPN is active, you can safely access TPB. If TPB is blocked in your region, you might need to use a proxy or mirror site. To find the current TPB URL or its mirrors:
 
