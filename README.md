@@ -1,4 +1,4 @@
-# piratebay
+# The Pirate Bay Proxy
 How to Download from The Pirate Bay in 2024
 
 Downloading from The Pirate Bay (TPB) in 2024 involves several steps, but it's essential to note that torrenting copyrighted content without permission is illegal in many countries. This guide is provided for informational purposes only, and you should ensure that you are in compliance with the law and only download content that is legal and free to share.
